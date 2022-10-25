@@ -1,29 +1,30 @@
 {
-    "posts":[
-        {
-            "id" : 1 ,
-            "title" : "Welcome to the new blog",
-            "body" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita animi minima numquam beatae illo doloremque eum vel fuga atque ea quibusdam iste temporibus sed aspernatur necessitatibus rerum, nostrum totam harum." ,
-            "likes" : 30
-        },
-        {
-            "id" : 2 ,
-            "title" : "How to be front-end Developer",
-            "body" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita animi minima numquam beatae illo doloremque eum vel fuga atque ea quibusdam iste temporibus sed aspernatur necessitatibus rerum, nostrum totam harum." ,
-            "likes" : 15
-        },{
-            "id" : 3 ,
-            "title" : "New project COMING SOON",
-            "body" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita animi minima numquam beatae illo doloremque eum vel fuga atque ea quibusdam iste temporibus sed aspernatur necessitatibus rerum, nostrum totam harum." ,
-            "likes" : 68
-        }
-    ],
-    "polls":[
-        {
-            "id" : 1 ,
-            "question" : "Do you prefer Vue or React ?",
-            "answerA" : "Vue" ,
-            "answerB" : "React"
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita animi minima numquam beatae illo doloremque eum vel fuga atque ea quibusdam iste temporibus sed aspernatur necessitatibus rerum, nostrum totam harum.",
+      "likes": 30
+    },
+    {
+      "id": 2,
+      "title": "How to be front-end Developer",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita animi minima numquam beatae illo doloremque eum vel fuga atque ea quibusdam iste temporibus sed aspernatur necessitatibus rerum, nostrum totam harum.",
+      "likes": 15
+    },
+    {
+      "id": 3,
+      "title": "New project COMING SOON",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita animi minima numquam beatae illo doloremque eum vel fuga atque ea quibusdam iste temporibus sed aspernatur necessitatibus rerum, nostrum totam harum.",
+      "likes": 68
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue or React ?",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
 }
